@@ -1,4 +1,8 @@
-### Hi there 👋
+### Saudações! Meu nome é Bruno da Silva
+Estou dando os primeiros passos na minha jornada pela programação
+
+
+
 
 <!--
 **BrunoGitCoder/BrunoGitCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
